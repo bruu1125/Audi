@@ -558,7 +558,7 @@ input[id='menu_icon']:checked + label #menu {
   width: 90%;
   padding: 10px;
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   justify-content: space-evenly;
   /* border:1px solid blue; */
 }
